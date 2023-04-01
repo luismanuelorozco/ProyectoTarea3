@@ -1,4 +1,4 @@
-from PIL import Image
+""" from PIL import Image
 import os
 
 # Ruta de la carpeta que contiene las imágenes
@@ -28,4 +28,4 @@ for nombre_archivo in os.listdir(ruta_carpeta):
         imagen_recortada = imagen.crop((x1, y1, x2, y2))
 
         # Guardar la imagen recortada
-        imagen_recortada.save(os.path.join(ruta_carpeta, nombre_archivo))
+        imagen_recortada.save(os.path.join(ruta_carpeta, nombre_archivo)) """
