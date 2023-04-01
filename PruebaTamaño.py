@@ -4,7 +4,6 @@ import os
 # establecer el tamaño y relación de aspecto deseada
 width = 1080
 height = 1350
-aspect_ratio = 4/5
 
 # establecer la ruta de la carpeta con las imágenes originales
 input_folder = r"C:\Users\LUIS\Desktop\PruebaCambioNombre"
